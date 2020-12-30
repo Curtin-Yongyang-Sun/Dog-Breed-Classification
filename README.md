@@ -10,3 +10,13 @@ This work is a capstone project required in Udacity Nanodegree program and emplo
 - Pre-trained ResNet_50 convolutional network
 - Pre-trained ResNet_18 convolutional network
 - Transfer Learning
+
+# Getting started
+- Open dog_app.ipynb on a jupyter notebook environment. The notebook consists of further technical details. 
+- Open Proposal.pdf in any pdf reader to see more details about this idea.
+- Open Report.pdf in any pdf reader to see the complete report.
+
+# Further work
+
+- Deploy the developed model to create a web application or smartphone app
+
